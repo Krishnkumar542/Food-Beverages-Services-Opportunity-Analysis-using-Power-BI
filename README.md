@@ -17,9 +17,6 @@ Mr. Shaun the sales director of the **Major Food and Beverage Manufacturer** wan
 - <a href="https://github.com/Krishnkumar542/Food-Beverages-Services-Opportunity-Analysis-using-Power-BI/blob/main/F%26B_Services%20Data.xlsx">F&B_Services Data</a>
 
 
-## **Questions**
-
-
 
 ## **Process**
 
