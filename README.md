@@ -26,7 +26,7 @@ Mr. Shaun the sales director of the **Major Food and Beverage Manufacturer** wan
 
 ## **Dashboard**
 
-![Alt text of the image](https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png)
+![Alt text of the image](https://github.com/Krishnkumar542/Food-Beverages-Services-Opportunity-Analysis-using-Power-BI/blob/main/F%26B%20Dashboard.png)
 
 ## **Project Insight**
 
