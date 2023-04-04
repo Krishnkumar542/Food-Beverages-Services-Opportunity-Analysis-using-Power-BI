@@ -1,9 +1,15 @@
 # Food-Beverages-Services-Opportunity-Analysis-using-Power-BI
-Created Interactive Dashboard of Food &amp; Beverages Services (Lookout for Opportunity Analysis)
+Created Interactive Dashboard of Food & Beverages Services (Opportunity Analysis of a Major Food and Beverage Manufacturer)
 
 ## **Project Objective**
 
-The owner of the **Madhav E-Commerce Store** wants us to create an <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png">interactive dashboard</a> to track and analyze their online sales across India.
+Mr. Shaun the sales director of the **Major Food and Beverage Manufacturer** wants us to create an interactive dashboard to analyze the opportunities in non-commercial establishments and adjacent to retailer stores to grow his F&B services and sales.
+
+## **Case Statement**
+- Get a quick view of the share of F&B spending from existing customers (restaurants) that **Shaun's F&B Company** is getting, and if there are any opportunities in specific segments.
+- What are the adjacent opportunities from the **_non-commercial establishments_** to additionally sell into (note that there are no customers currently in the non-commercial segment). Their data of spending are not available, so will be interested in knowing relevant proxies that could indicate opportunities for us.
+- **_Retailers_** are a different business division and out of scope for me (Shaun), but some of my customers/prospects could be buying from these retailers – so getting a view of retailer presence adjacent to his customers & prospects will help understand how much of these opportunities are being met / unmet.
+
 
 
 ## **Dataset used**
@@ -17,7 +23,6 @@ The owner of the **Madhav E-Commerce Store** wants us to create an <a href="http
 
 ## **Process**
 
-- Created an <a href="https://github.com/Krishnkumar542/Interactive-Dashboard-Creation-Using-Power-BI/blob/main/Madhav%20Store%20Ecommerce%20Dashboard.png">interactive dashboard</a> to track and analyze online sales data.
 
 ## **Dashboard**
 
