@@ -3,7 +3,7 @@ Created Interactive Dashboard of Food & Beverages Services (Opportunity Analysis
 
 ## **Project Objective**
 
-Our client, the sales director of the **Major Food and Beverage Manufacturer** wants us to create an interactive dashboard to analyze the opportunities in non-commercial establishments and adjacent to retailer stores to grow his F&B services and sales.
+Our client, the sales director of the **Major Food and Beverage Manufacturer** wants us to report hindsight and insight of his business based on provided datasets.  Also, he wants us to create an interactive dashboard to analyze the sales opportunities available in non-commercial sections and adjacent to retailer stores to grow his F&B services.
 
 ## **Case Statement**
 - Get a quick view of the share of F&B spending from existing customers (restaurants) that **Shaun's F&B Company** is getting, and if there are any opportunities in specific segments.
