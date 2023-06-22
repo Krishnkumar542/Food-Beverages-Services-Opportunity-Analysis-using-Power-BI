@@ -20,7 +20,7 @@ Our client, the sales director of the **Major Food and Beverage Manufacturer** w
 
 ## **Process**
 
-- Built interactive dashboard to visualize sales opportunities of F&B manufacturer services in three different bussines segments.
+- Built an interactive dashboard to visualize sales opportunities of F&B manufacturer services in three different business segments.
 - Used complex parameters to drill down in worksheets and customization using filters and slicers. 
 - Created connections, join new columns, and enable user-driven parameters for visualizations.
 - Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, map, slicers, tables, etc).
